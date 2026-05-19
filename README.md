@@ -1,3 +1,5 @@
+My role: Frontend Developer. I built the React/Vite/Tailwind UI, integrated Three.js for in-browser 3D model rendering, implemented Firebase Authentication and Firestore, and connected the frontend to the Flask backend via REST API.
+
 # 3Dify
 Turn 360° videos into realistic 3D models in minutes.
 
