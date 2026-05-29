@@ -1,11 +1,11 @@
 # 3Dify
-Turn 360° videos into realistic 3D models in minutes.
+Turn 360° videos into realistic 3D models.
 
 ---
 
 ## Overview
 
-3Dify lets you upload a 360° video of any object and get back a downloadable 3D model — ready to preview in-browser or send straight to a 3D printer. No expensive scanners or manual setups required.
+3Dify lets you upload a 360° video of any object and get back a downloadable 3D model that is ready to preview in-browser or send straight to a 3D printer. No expensive scanners or manual setups required.
 
 Traditional 3D modeling is tedious. Photogrammetry workflows often require uploading 100+ carefully staged photos of a single object just to get a usable model. With 3Dify, you record a short video, upload it, and your model is ready. The backend handles the reconstruction using Gaussian splatting and mesh processing, and the result is stored in Firebase for you to preview and download instantly.
 
@@ -13,13 +13,13 @@ Traditional 3D modeling is tedious. Photogrammetry workflows often require uploa
 
 ## My Contributions
 
-I worked as a full-stack developer on a team of three, with primary ownership of the frontend. I was involved across the entire stack — from the React UI down to the Flask API layer and cloud infrastructure.
+I worked as a full-stack developer on a team of three, with primary ownership of the frontend. I was involved across the entire stack. From the React UI down to the Flask API layer and cloud infrastructure.
 
 - Architected and built the full React/Vite/Tailwind frontend including drag-and-drop upload, real-time processing state, and responsive layout
 - Integrated Three.js for interactive in-browser 3D model rendering and preview
-- Implemented Firebase Authentication, Firestore, and Cloud Storage for user accounts and model galleries
+- Implemented Firebase Authentication for user accounts and model galleries
 - Designed and connected the REST API interface between the React frontend and Flask backend
-- Understood and worked within the Flask backend architecture — including the blueprint structure, API routing, and mock mode for local development
+- Understood and worked within the Flask backend architecture, including the blueprint structure, API routing, and mock mode for local development
 - Built the Projects page for tracking and managing past scans
 
 ---
