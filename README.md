@@ -3,6 +3,12 @@ Turn 360° videos into realistic 3D models.
 
 ---
 
+<div align="center">
+  <img src="docs/gallery.gif" width="48%" alt="Gallery" />
+  &nbsp;
+  <img src="docs/model.gif" width="48%" alt="Model viewer" />
+</div>
+
 ## Overview
 
 3Dify lets you upload a 360° video of any object and get back a downloadable 3D model that is ready to preview in-browser or send straight to a 3D printer. No expensive scanners or manual setups required.
